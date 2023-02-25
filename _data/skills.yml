@@ -1,12 +1,15 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Linux
+  description: "I have several years of using Linux as my primary operating system. I have experience with the command line, and have written several scripts to automate tasks. I have experience with the following distributions: Ubuntu, Debian and Fedora."
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: The Go Programming Language
+  description: I am able to write clean, efficient, and maintainable code in Go. I have experience with the standard library, and have written several packages for use in other projects.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Docker
+  description: I can create Dockerfiles and docker-compose files to create containers for my projects. I have experience with GitHub Actions to build and push images to GitHub Container Registrty.
+
+- skill: PostgreSQL
+  description: I am able to create and maintain databases in PostgreSQL. Also, I have experience with the pgAdmin tool.
