@@ -21,7 +21,7 @@ resume_contact_telephone:       "000"
 resume_contact_address:         "The UK, London"
 
 resume_header_contact_info:     "The UK, London"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A university student with advanced experience in programming (Go), looking to grow their skills and career as a software or systems engineer.</p>"
 
