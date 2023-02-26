@@ -1,14 +1,14 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# shortener
 - project: s.x16.me
   role: Founder & Primary Developer
   duration: 2022 &mdash; Present
   url: "https://github.com/hararudoka/shrt"
   description: A Simple URL Shortener written in Go. It has a REST API for creating and retrieving URLs.
 
-# Springfield Community Outreach Group
+# game of life
 - project: Game of Life Engine
   role: Founder & Primary Developer
   duration: 2022
